@@ -1,9 +1,3 @@
 BARRY RESOLUSI
--expert front-end
--expert back-end
--work at sillicon valley
--hidup mevah
--buat akun youtube
--buat merch
--PARTY LAHHH AJG
--PARTYYYYYYYYYYY
+-expert at front-end
+ *master at HTML, CSS, dan Javascript
